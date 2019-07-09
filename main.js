@@ -1,2 +1,2 @@
-var num = 50;
-var truth = "Hello Cats";
+var int num = 50;
+var String truth = "Hello Cats";
